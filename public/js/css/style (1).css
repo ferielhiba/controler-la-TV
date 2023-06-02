@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+#device-control {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
